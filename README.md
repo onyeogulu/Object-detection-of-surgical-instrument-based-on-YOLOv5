@@ -3,7 +3,7 @@
 The following steps shouls be taking to reproduce the results in our work. 
 
 1. Clone our github repository containg the YOLOv5 and YOLOv7 folder. 
-2. Download our novel annotated endoscope dataset from this [link](https://drive.google.com/drive/folders/1ruH7B-IMPqNeBkWail2NruXSmMAKCcpy?usp=sharing)
+2. Download our novel annotated endoscope dataset from this [link](https://drive.google.com/drive/folders/1ruH7B-IMPqNeBkWail2NruXSmMAKCcpy?usp=sharing).
 3. For each refinement of our YOLOv5, we wrote a .yaml file that contains the instructions on how the model will be trianed and each refinement .ymal file is saved in the [models](https://github.com/onyeogulu/Object-detection-of-surgical-instrument-based-on-YOLOv5/tree/main/YOLOv5/models) folder inside the YOLOv5 folder.  
 4. To train each YOLOv5 model, follow the instructions on how to train the YOLOv5 model documented in the Readme file inside the YOLOV5 folder.
 5. To train our benchmark models, we wrote .yaml files that contains the instrustions on how to train our models. 
