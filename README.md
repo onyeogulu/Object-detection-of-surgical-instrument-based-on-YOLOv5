@@ -10,3 +10,4 @@ The following steps shouls be taking to reproduce the results in our work.
 6. To train our YOLOv7 bencmark model used the instructions documented in the Readme file inside the YOLOv7 folder. 
 7. New .yaml file for YOLOR and Scaled_YOLOv4 are written and saved in [here](https://github.com/onyeogulu/Object-detection-of-surgical-instrument-based-on-YOLOv5/tree/main/YOLOV7/cfg/training) in the YOLOv7 folder which are used to train our YOLOR and Scaled_YOLOv4 benchmark models.
 8. New .yaml file for YOLOv3-SPP are written and saved in [here](https://github.com/onyeogulu/Object-detection-of-surgical-instrument-based-on-YOLOv5/tree/main/YOLOv5/models) in the YOLOv5 folder is used to train our YOLOv3-SPP benchmark model.
+9. The Data processing folder comtains all the python scripts used in preprocessing our fresh endoscope data in other to make the data ready for model training. 
